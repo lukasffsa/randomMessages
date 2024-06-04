@@ -23,6 +23,7 @@ for(let attribute in messages){
             break;
         default:
             randomMessage.push('Lack of informations!');
+            break;
     }
 }
 
